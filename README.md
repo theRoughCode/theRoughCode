@@ -7,6 +7,7 @@
 - ⚛️ I have a deep interest in the field of quantum computing
 - ❤️ I love working on software side projects
 - 🔭 I'm currently working on quantum machine learning research!
+- 💼 I'm currently working at [Microsoft Quantum](https://www.microsoft.com/en-us/quantum)
 - 🥅 2020 Goals:
   - Contribute more to quantum computing projects/research
   - Write a blog
