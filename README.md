@@ -1,5 +1,5 @@
 ## Hi there, I'm Raphael! 👋
-![GitHub](https://img.shields.io/github/followers/theRoughCode?label=Follow&style=social)
+[![Github](https://img.shields.io/github/followers/theRoughCode?label=Follow&style=social)](https://github.com/theRoughCode)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=theRoughCode.theRoughCode)
 
 ## 👦 About Me
