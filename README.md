@@ -41,7 +41,7 @@
 <br />
 
 ## 📖 My Blog Posts
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@raph-koh/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@raph-koh/0" alt="Staring into the soul of a Quantum program">
+<a target="_blank" href="https://raph-koh.medium.com/staring-into-the-soul-of-a-quantum-program-694bcfbf92ac"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@raph-koh/0" alt="Staring into the soul of a Quantum program">
 
 ## 🏆 My Github stats
 
