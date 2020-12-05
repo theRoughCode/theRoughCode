@@ -44,7 +44,6 @@
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@raph-koh/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@raph-koh/0" alt="Staring into the soul of a Quantum program">
 
 <br />
-<br />
 
 ## 🏆 My Github stats
 
