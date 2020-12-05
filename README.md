@@ -43,8 +43,6 @@
 ## 📖 My Blog Posts
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@raph-koh/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@raph-koh/0" alt="Staring into the soul of a Quantum program">
 
-<br />
-
 ## 🏆 My Github stats
 
 <img alt="Github Stats" align="left" src="https://github-readme-stats.codestackr.vercel.app/api?username=theRoughCode&show_icons=true&theme=algolia" />
