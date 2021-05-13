@@ -3,12 +3,12 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=theRoughCode.theRoughCode)
 
 ## 👦 About Me
-- 🎓 I'm a Computer Science student at the University of Waterloo
+- 🎓 I'm a Computer Science graduate from the University of Waterloo
 - ⚛️ I have a deep interest in the field of quantum computing
 - ❤️ I love working on software side projects
 - 🔭 I'm currently working on quantum machine learning research!
-- 💼 I'm currently working at [Amazon AWS](https://aws.amazon.com/), and previously interned at [Microsoft Quantum](https://www.microsoft.com/en-us/quantum) and [Uber ATG](https://www.uber.com/us/en/atg/)
-- 🥅 2020 Goals:
+- 💼 I've previously interned at [Amazon AWS](https://aws.amazon.com/), [Microsoft Quantum](https://www.microsoft.com/en-us/quantum) and [Uber ATG](https://www.uber.com/us/en/atg/)
+- 🥅 201 Goals:
   - Contribute more to quantum computing projects/research
   - Write a blog
 - 💑 [@MichLiang](https://github.com/MichLiang)
