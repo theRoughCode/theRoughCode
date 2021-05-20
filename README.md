@@ -8,10 +8,15 @@
 - ❤️ I love working on software side projects
 - 🔭 I'm currently working on quantum machine learning research!
 - 💼 I've previously interned at [Amazon AWS](https://aws.amazon.com/), [Microsoft Quantum](https://www.microsoft.com/en-us/quantum) and [Uber ATG](https://www.uber.com/us/en/atg/)
-- 🥅 201 Goals:
+- 🥅 2021 Goals:
   - Contribute more to quantum computing projects/research
   - Write a blog
 - 💑 [@MichLiang](https://github.com/MichLiang)
+
+### Quantum Computing
+- I'm a Google Summer of Code (GSoC) mentor for [ML4SCI](https://ml4sci.org/)
+- Open-source repos I've contributed to:
+  - |toqito> (Theory of Quantum Information Toolkit) in Python 🐍 [repo](https://github.com/vprusso/toqito)
 
 ## 🌐 Connect with me
 
