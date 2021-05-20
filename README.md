@@ -52,7 +52,7 @@
 
 ## 🏆 My Github stats
 
-<img alt="Github Stats" align="left" src="https://github-readme-stats.codestackr.vercel.app/api?username=theRoughCode&show_icons=true&theme=algolia" />
+<img alt="Github Stats" align="left" src="https://github-readme-stats.vercel.app/api?username=theRoughCode&show_icons=true&theme=algolia" />
 <img alt="Top Langs" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theRoughCode&theme=algolia" />
 
 [website]: https://www.raphaelkoh.me
