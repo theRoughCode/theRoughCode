@@ -16,7 +16,8 @@
 ### Quantum Computing
 - I'm a Google Summer of Code (GSoC) mentor for [ML4SCI](https://ml4sci.org/) on a Quantum Machine Learning (QML) research project
 - Open-source repos I've contributed to:
-  - |toqito> (Theory of Quantum Information Toolkit) in Python 🐍 [[repo](https://github.com/vprusso/toqito)]
+  - quantum-viz.js (code owner and main developer) [[repo](https://github.com/microsoft/quantum-viz.js)]
+  - |toqito> Theory of Quantum Information Toolkit in Python 🐍 [[repo](https://github.com/vprusso/toqito)]
 - Projects:
   - ArtiQlate - Design quantum algorithms with your voice! [[repo](https://github.com/theRoughCode/artiQlate)]
 
